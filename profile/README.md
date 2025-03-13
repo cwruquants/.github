@@ -7,7 +7,7 @@ We are a club of curious, hard-working students who want to learn more about qua
 continually push boundaries and <i>trade beyond the possible</i>.
 
 ## What do we do?
-Quant finance is applying math and computer science to help financial corporations make money. This can take form in many ways, such as algorithmic trading, machine learning, actuarial risk analysis, and more.   
+Quant finance is an industry where you apply concepts from math and computer science to help financial firms make money. This can take form in many ways, such as algorithmic trading, machine learning, actuarial risk analysis, and more.   
 
 As the only quantitative finance society on campus, we look to educate people on various topics in the field, and prepare our members for succcessful careers in industry. We host educational lectures on cool topics
 [INSERT LINK HERE], work on individual projects, have guest speakers, career workshops, and more. If you're looking for a list of our historical General Board (GB) meetings, please refer to our "slides" repository.
