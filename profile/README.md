@@ -17,7 +17,7 @@ As a dedicated member of CWRU Quants, you are part of a community of likeminded 
 probably cover a lot of the typical computer science coursework in our club, so you will not only be ahead in knowledge, but know how to practically it in your projects.   
 
 Our club members and alumni network will be one of the strongest Case has ever seen. Being a member of our club will already put you one step ahead of the game,
-with easier access to our current and past members. 
+with access to networking sessions, resume workshops, and discussions to get into your desired career.
 
 ## Cool! I would like to get involved. Where do I get started?
 Email us at: <b>quants[at]case[dot]edu</b>
