@@ -12,7 +12,7 @@ Quant finance is an industry where you apply concepts from math and computer sci
 As the only quantitative finance society on campus, we look to educate people on various topics in the field, and prepare our members for succcessful careers in industry. We host educational lectures on cool topics
 [INSERT LINK HERE], work on individual projects, have guest speakers, career workshops, and more. If you're looking for a list of our historical General Board (GB) meetings, please refer to our "slides" repository.
 
-## Why should I join?
+## Why should you join?
 As a general body member of CWRU Quants, you are part of a community of likeminded individuals who are motivated to learn and push themselves past their coursework. Honestly, you will
 probably cover a lot of the typical computer science coursework in our club, so you will not only be ahead in knowledge, but know how to practically apply it in your projects.   
 
