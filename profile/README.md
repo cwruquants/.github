@@ -19,5 +19,5 @@ probably cover a lot of the typical computer science coursework in our club, so 
 Our club members and alumni network will be one of the strongest Case has ever seen. Being a member of our club will already put you one step ahead of the game,
 with access to networking sessions, resume workshops, and discussions to get into your desired career.
 
-## Cool! I would like to get involved. Where do I get started?
-Email us at: <b>quants[at]case[dot]edu</b>
+## Questions? Want to get involved?
+Email us at: <b>quants[@]case[.]edu</b>
