@@ -1,6 +1,6 @@
 ![CWRU Quants](/profile/cardLogo.png)
 
-# Welcome to CWRU Quants, Case's first and only quantitative finance society.
+# Welcome to CWRU Quants, Case's premier quantitative finance society.
 
 ## Who are we?
 We are a club of inquisitive, relentless, and passionate students. Our members come from all sorts of backgrounds in engineering, finance, mathematics, and social sciences. Our individual fields of study is our core, and we come together
