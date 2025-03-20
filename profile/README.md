@@ -6,8 +6,6 @@ Welcome to CWRU Quants, Case's first and only quantitative finance society.
 We are a club of inquisitive, relentless, and passionate students. Our members come from all sorts of backgrounds in engineering, finance, mathematics, and social sciences. Our individual fields of study is our core, and we come together
 at CWRU Quants to apply our knowledge into Quantitative Finance.     
 
-Noy only are we a community of trailblazers, but we are a supportive group that wants to uplift everyone around us to succeed.   
-
 ## What do we do?
 Quant finance is an industry where you apply concepts from math and computer science to help financial firms make money. This can take form in many ways, such as algorithmic trading, machine learning, actuarial risk analysis, and more.   
 
