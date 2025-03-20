@@ -1,10 +1,12 @@
 # CWRU Quants
 
-Welcome to CWRU Quants, Case's first and only quantitative finance society. 
+Welcome to CWRU Quants, Case's first and only quantitative finance society.
 
 ## Who are we?
-We are a club of curious, hard-working students who want to learn more about quantitative finance. We are a supportive community that uplifts each other to do our best, and to
-continually push boundaries and <i>trade beyond the possible</i>.
+We are a club of inquisitive, relentless, and passionate students. Our members come from all sorts of backgrounds in engineering, finance, mathematics, and social sciences. Our individual fields of study is our core, and we come together
+at CWRU Quants to apply our knowledge into Quantitative Finance.     
+
+Noy only are we a community of trailblazers, but we are a supportive group that wants to uplift everyone around us to succeed.   
 
 ## What do we do?
 Quant finance is an industry where you apply concepts from math and computer science to help financial firms make money. This can take form in many ways, such as algorithmic trading, machine learning, actuarial risk analysis, and more.   
@@ -13,11 +15,13 @@ As the only quantitative finance society on campus, we look to educate people on
 [INSERT LINK HERE], work on individual projects, have guest speakers, career workshops, and more. If you're looking for a list of our historical General Board (GB) meetings, please refer to our "slides" repository.
 
 ## Why should you join us?
-As a dedicated member of CWRU Quants, you are part of a community of likeminded individuals who are motivated to learn and push themselves past their coursework. Honestly, you will
-probably cover a lot of the typical computer science coursework in our club, so you will not only be ahead in knowledge, but know how to practically it in your projects.   
+As a general body member of CWRU Quants, you are part of a community of likeminded individuals who are motivated to learn and push themselves past their coursework. Honestly, you will
+probably cover a lot of the typical computer science coursework in our club, so you will not only be ahead in knowledge, but know how to practically apply it in your projects.   
 
-Our club members and alumni network will be one of the strongest Case has ever seen. Being a member of our club will already put you one step ahead of the game,
-with access to networking sessions, resume workshops, and discussions to get into your desired career.
+Our club members and alumni network will be one of the strongest Case has ever seen. You can expect mentorship (classes, internships, recruiting) from our upperclassmen, support from your peers, and
+and a rich learning experience. 
 
 ## Questions? Want to get involved?
-Email us at: <b>quants[@]case[.]edu</b>
+Email us at: <b>quants[@]case[.]edu</b>     
+
+<i>trade beyond the possible</i>   
