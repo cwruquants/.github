@@ -1,4 +1,4 @@
-# CWRU Quants
+![CWRU Quants]()
 
 Welcome to CWRU Quants, Case's first and only quantitative finance society.
 
