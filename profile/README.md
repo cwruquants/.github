@@ -9,8 +9,7 @@ at CWRU Quants to apply our knowledge at the highest level in Quantitative Finan
 ## What do we do?
 Quant finance is an industry where you apply concepts from math and computer science to help financial firms make money. This can take form in many ways, such as algorithmic trading, machine learning, actuarial risk analysis, and more.   
 
-As the only quantitative finance society on campus, we look to educate people on various topics in the field, and prepare our members for succcessful careers in industry. We host educational lectures on cool topics
-[INSERT LINK HERE], work on individual projects, have guest speakers, career workshops, and more. If you're looking for a list of our historical General Board (GB) meetings, please refer to our "slides" repository.
+As the only quantitative finance society on campus, we look to educate people on various topics in the field, and prepare our members for succcessful careers in industry. We host educational lectures on cool topics, work on individual projects, have guest speakers, career workshops, and more. If you're looking for a list of our historical General Board (GB) meetings, please refer to our "slides" repository.
 
 ## Why should you join?
 As a general body member of CWRU Quants, you are part of a community of likeminded individuals who are motivated to learn and push themselves past their coursework. Honestly, you will
